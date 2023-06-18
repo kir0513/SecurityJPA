@@ -7,7 +7,7 @@ import java.io.IOException;
 
 @SpringBootApplication
 public class SecurityJpaApplication {
-
+//
     public static void main(String[] args) throws IOException {
         SpringApplication.run(SecurityJpaApplication.class, args);
         openHomePage();
